@@ -1,0 +1,2 @@
+Credentials cache: API:3CC6CDB3-62CD-47EE-8F30-2E474334CD9A
+        Principal: luisfern@42LISBOA.COM
